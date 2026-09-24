@@ -2,6 +2,8 @@
   "name": "remoradelivery",
   "version": "1.0.0",
   "description": "App de Delivery da RemoraLink",
+  "private": true,
+  "packageManager": "pnpm@12.6.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/Vidall/RemoraDelivery/issues"
   },
-  "homepage": "https://github.com/Vidall/RemoraDelivery#readme"
+  "homepage": "https://github.com/Vidall/RemoraDelivery#readme",
+  "dependencies": {}
 }
